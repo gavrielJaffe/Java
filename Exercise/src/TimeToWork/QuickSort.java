@@ -89,7 +89,6 @@ public class QuickSort {
 	    			System.out.println(""+arr[i]);
 	    		}
 	    	     scn.close();	    			    	
-    		// int arr[] = {10, 7, 8, 9, 1, 5}; 
 	        int n = size; 
 	  
 	        QuickSort ob = new QuickSort(); 
